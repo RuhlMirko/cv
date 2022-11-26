@@ -1,0 +1,16 @@
+body{
+    background: rgb(2,0,36);
+    background: linear-gradient(16deg, rgba(2,0,36,1) 0%, rgba(23,11,34,1) 18%, rgba(64,32,30,0.98) 55%, rgba(226,112,12,0.8) 90%, rgba(232,255,0,0.5) 100%);  
+    color: beige;
+    font-family: Helvetica;
+}
+hr{
+    border-color: beige;
+    border-style: dotted none none none;          
+    border-width: 4px;
+    width: 35%;
+    margin-left: 0;
+}
+h1,h3{
+    color: rgb(243, 194, 120);
+}
